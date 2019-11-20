@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Nov 2019 19:07:55 at http://html.tonatheme.com/2017/plumber/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://html.tonatheme.com/2017/plumber/index.html -O1 "C:\Users\DigitalKeyTech\Desktop\poo2\poo2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:10:52	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/images/gradient/g30.png (from html.tonatheme.com/2017/plumber/css/revolution-slider.css)
+19:10:52	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/images/gradient/g40.png (from html.tonatheme.com/2017/plumber/css/revolution-slider.css)
+19:10:52	Error: 	"Not Found" (404) at link html.tonatheme.com/revolution.themepunch.com/wp-content/uploads/2014/05/wave21.png (from html.tonatheme.com/2017/plumber/css/revolution-slider.css)
+19:10:52	Error: 	"Not Found" (404) at link https://revolution.themepunch.com/wp-content/uploads/2014/05/wave11.png (from html.tonatheme.com/2017/plumber/css/revolution-slider.css)
+19:11:46	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/css/owl.video.play.png (from html.tonatheme.com/2017/plumber/css/owl.css)
+19:11:46	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/css/images/ui-icons_444444_256x240.png (from html.tonatheme.com/2017/plumber/css/jquery-ui.css)
+19:11:46	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/css/images/ui-icons_777620_256x240.png (from html.tonatheme.com/2017/plumber/css/jquery-ui.css)
+19:11:46	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/css/images/ui-icons_cc0000_256x240.png (from html.tonatheme.com/2017/plumber/css/jquery-ui.css)
+19:11:46	Error: 	"Not Found" (404) at link html.tonatheme.com/2017/plumber/css/images/ui-icons_777777_256x240.png (from html.tonatheme.com/2017/plumber/css/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 51 seconds : 187 links scanned, 177 files written (6249744 bytes overall) [6323751 bytes received at 27375 bytes/sec], 209213 bytes transferred using HTTP compression in 1 files, ratio 11%, 4.1 requests per connection
+(9 errors, 0 warnings, 0 messages)

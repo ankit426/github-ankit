@@ -1,0 +1,50 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 24/07/2017 09:54
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon.woff") format("woff"),
+       url("../fonts/flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-quality:before { content: "\f100"; }
+.flaticon-stopwatch:before { content: "\f101"; }
+.flaticon-rocket:before { content: "\f102"; }
+.flaticon-toilet:before { content: "\f103"; }
+.flaticon-shower:before { content: "\f104"; }
+.flaticon-bath-tub:before { content: "\f105"; }
+.flaticon-construction-4:before { content: "\f106"; }
+.flaticon-construction-3:before { content: "\f107"; }
+.flaticon-construction-2:before { content: "\f108"; }
+.flaticon-construction-1:before { content: "\f109"; }
+.flaticon-construction:before { content: "\f10a"; }
+.flaticon-pipe:before { content: "\f10b"; }
+.flaticon-pipes-4:before { content: "\f10c"; }
+.flaticon-drop-water-falling-from-a-tap:before { content: "\f10d"; }
+.flaticon-tap:before { content: "\f10e"; }
+.flaticon-plumber-1:before { content: "\f10f"; }
+.flaticon-plumber:before { content: "\f110"; }
+.flaticon-pipes-3:before { content: "\f111"; }
+.flaticon-pipes-2:before { content: "\f112"; }
+.flaticon-pipes-1:before { content: "\f113"; }
+.flaticon-pipes:before { content: "\f114"; }

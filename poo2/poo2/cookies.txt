@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.themepunch.com	TRUE	/	FALSE	1999999999	__cfduid	d6ed5a46edf8e2e07a559e9cd8e60c1571574257202
+revolution.themepunch.com	TRUE	/	FALSE	1999999999	cookielawinfo-checkbox-necessary	yes
+
